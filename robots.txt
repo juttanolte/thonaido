@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aequohpai.egmitchell.co.uk/sitemap.xml
